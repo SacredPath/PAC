@@ -1,1 +1,0 @@
-// Obfuscated JS for seat counter
